@@ -5,6 +5,8 @@
 [![Plotly](https://img.shields.io/badge/Visualization-Plotly-green.svg)](https://plotly.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
+🚀 **Live Interactive App: https://realtime-fintech-price-tracker-c8cfmoae9bayvsbuwufwp3.streamlit.app/
+
 An end-to-end institutional-grade financial market intelligence dashboard that streams live equity and cryptocurrency time-series telemetry, computes quantitative momentum indicators (SMA, RSI), evaluates real-time market sentiment via NLP telemetry models, and renders dynamic Plotly visualization charts inside a modern SaaS-styled dark interface.
 
 ---
